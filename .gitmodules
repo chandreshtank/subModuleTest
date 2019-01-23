@@ -1,0 +1,3 @@
+[submodule "subMod1"]
+	path = subMod1
+	url = https://github.com/chandreshtank/subMod1.git
